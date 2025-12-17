@@ -8,7 +8,7 @@
 <!--Intro start-->
 - 🔭 I'm currently working at **Totvs** and developing **games** as a hobby.
 
-- 🌱My focus is on **TypeScript**, **Javascript**, **Node**, **Java**, **C++**, creating scalable backends for games and web applications.
+- 🌱My focus is on **TypeScript**, **Javascript**, **Node**, **Java** creating scalable backends for games and web applications.
   
 - 🎮 I’m passionate about **game development**.
 
