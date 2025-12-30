@@ -1,16 +1,17 @@
 <!-- Header -->
 <div align="center">
   <h1>Hi 👋 I'm Witor Silva</h1>
-  <h3>Full-Stack Developer • Game Developer Enthusiast</h3>
+  <h3>Front-End Specialist • Full-Stack Developer • Game Dev Enthusiast</h3>
 </div>
 
 <br/>
 
 <!-- Intro -->
-- 🎮 **Game Developer Enthusiast** passionate about level design, multiplayer experiences, and robust game architecture 
-- 🌱 Main stack: **TypeScript, JavaScript, Node.js, Java** for scalable backends and frontends
-- ☁️ **Front & Backend Specialist** with **8+ years** of experience in the IT industry  
-- 🧠 Experience building **Micro Frontends**, **real-time systems**, **sockets**, **game servers**, and **scalable architectures**  
+- 💻 **Front-End Specialist** with strong **Back-End experience**, focused on building scalable, high-quality user interfaces  
+- 🌱 Main stack: **TypeScript, JavaScript, Node.js, Java**, working across modern frontends and robust backends  
+- ☁️ **8+ years** of experience in the IT industry, acting end-to-end when needed  
+- 🧠 Hands-on experience with **Micro Frontends**, **real-time systems**, **WebSockets**, **game servers**, and **scalable architectures**  
+- 🎮 **Game Development** as a **hobby and study area**, exploring level design, multiplayer systems, and game architecture  
 - 📫 Contact: **witorsilvaoliveira@gmail.com**
 
 <br/>
