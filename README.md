@@ -1,32 +1,42 @@
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋</summary>
-  </ul>
+<!-- Header -->
+<div align="center">
+  <h1>Hi 👋 I'm Witor Silva</h1>
+  <h3>Full-Stack Developer • Game Developer Enthusiast</h3>
 </div>
-
-<!--Intro start-->
-- 🔭 I'm currently working at **Totvs** and developing **games** as a hobby.
-
-- 🌱My focus is on **TypeScript**, **Javascript**, **Node**, **Java** creating scalable backends for games and web applications.
-  
-- 🎮 I’m passionate about **game development**.
-
-- ☁️ I specialize in **web development** with 8 years of experience in the IT industry, delivering robust and scalable solutions.
-
-- 📝 I regularly work on advanced systems.
-
-- 📫 Feel free to reach me at **witorsilvaoliveira@gmail.com**
-<!--Intro end-->
 
 <br/>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-     <a href="https://github.com/owitor">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owitor&layout=compact&theme=github_dark&locale=pt-br"/>
-  </a>
-  </ul>
-</div>
+<!-- Intro -->
+- 🎮 **Game Developer Enthusiast** passionate about level design, multiplayer experiences, and robust game architecture 
+- 🌱 Main stack: **TypeScript, JavaScript, Node.js, Java** for scalable backends and frontends
+- ☁️ **Front & Backend Specialist** with **8+ years** of experience in the IT industry  
+- 🧠 Experience building **real-time systems**, **WebSockets**, **game servers**, and **scalable architectures**  
+- 📫 Contact: **witorsilvaoliveira@gmail.com**
 
+<br/>
+
+<!--tech stack icons-->
+<p align="center">Languages & Frameworks</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,ts,js,nodejs,nestjs,html,css,tailwind,firebase" />
+  </a>
+</p>
+<p align="center">Databases & Messaging</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redis,elasticsearch,mongodb,mysql,postgres,rabbitmq" />
+  </a>
+</p>
+<p align="center">Game Engines</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unreal" />
+  </a>
+</p>
+<p align="center">DevOps & Tools</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,github,nginx,cloudflare,grafana,datadog" />
+  </a>
+</p>
