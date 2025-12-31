@@ -20,7 +20,7 @@
 <p align="center">Languages & Frameworks</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,ts,js,nodejs,nestjs,html,css,tailwind,firebase" />
+    <img src="https://skillicons.dev/icons?i=cpp,ts,js,nodejs,nestjs,html,css,tailwind,firebase" />
   </a>
 </p>
 <p align="center">Databases & Messaging</p>
@@ -32,7 +32,7 @@
 <p align="center">Game Engines</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity" />
+    <img src="https://skillicons.dev/icons?i=unreal" />
   </a>
 </p>
 <p align="center">DevOps & Tools</p>
