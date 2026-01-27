@@ -20,7 +20,7 @@
 <p align="center">Languages & Frameworks</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,ts,js,nodejs,nestjs,html,css,tailwind,firebase" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,java,spring,nestjs,html,css,tailwind,firebase" />
   </a>
 </p>
 <p align="center">Databases & Messaging</p>
