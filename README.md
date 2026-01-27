@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <h1>Hi 👋 I'm Witor Silva</h1>
-  <h3>Front-End Specialist • Full-Stack Developer • Game Dev Enthusiast</h3>
+  <h3>Front-End Specialist • Full-Stack Developer • Blockchain & Crypto Enthusiast</h3>
 </div>
 
 <br/>
@@ -11,7 +11,7 @@
 - 🌱 Main stack: **TypeScript, JavaScript, Node.js, Java**, working across modern frontends and robust backends  
 - ☁️ **8+ years** of experience in the IT industry, acting end-to-end when needed  
 - 🧠 Hands-on experience with **Micro Frontends**, **real-time systems**, **WebSockets**, **game servers**, and **scalable architectures**  
-- 🎮 **Game Development** as a **hobby and study area**, exploring level design, multiplayer systems, and game architecture  
+- 🔗 **Blockchain & Cryptocurrencies** as a **study and interest area**, exploring smart contracts, decentralized systems, tokenomics, and Web3 architectures  
 - 📫 Contact: **witorsilvaoliveira@gmail.com**
 
 <br/>
@@ -27,12 +27,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=redis,elasticsearch,mongodb,mysql,postgres,rabbitmq" />
-  </a>
-</p>
-<p align="center">Game Engines</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity" />
   </a>
 </p>
 <p align="center">DevOps & Tools</p>
