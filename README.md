@@ -27,6 +27,6 @@ I enjoy working across the stack — from backend architecture and cloud-native 
 <p align="center">DevOps & Tools</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,nginx,cloudflare,grafana,datadog" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,nginx,cloudflare,grafana" />
   </a>
 </p>
