@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Witor, a Software Engineering with over 8 years of experience in the IT industry.
+Software Engineer with 8+ years of experience building scalable backend systems and distributed architectures.
 
-I build scalable frontends, real-time systems, and robust backend architectures. I enjoy working across the stack — from user experience to distributed systems.
+I specialize in microservices with Java & Spring Boot, high-performance APIs, and real-time systems. I also develop scalable frontends and work with micro frontends to deliver seamless, end-to-end solutions.
 
-I have hands-on experience with micro frontends, WebSockets, scalable APIs, and cloud-native environments.
+I enjoy working across the stack — from backend architecture and cloud-native environments to clean, responsive user interfaces — always focusing on scalability, performance, and maintainable code.
 
 📫 Contact: **witorsilvaoliveira@gmail.com**
 
