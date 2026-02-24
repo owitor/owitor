@@ -11,22 +11,22 @@ My work spans from frontend architecture and design systems to performance, obse
 [![Linkedin: witor](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/in/witorsilva/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:witorsilvaoliveira@gmail.com)
 
-<!--tech stack icons-->
 <p align="center">Languages & Frameworks</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,html,css" />
+    <img src="https://skillicons.dev/icons?i=ts,js,angular,react,vue,html,css,sass" />
   </a>
 </p>
-<p align="center">Databases & Messaging</p>
+
+<p align="center">Architecture, State & Tooling</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redis,elasticsearch,firebase,mongodb,mysql,postgres,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=nodejs,webpack,vite,npm,yarn" />
   </a>
 </p>
-<p align="center">DevOps & Tools</p>
+
+<p align="center">DevOps & Platform</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,nginx,cloudflare,grafana" />
-  </a>
-</p>
+</a>
