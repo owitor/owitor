@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Frontend Architect focused on building **scalable, modular and resilient web applications**.
+Frontend Architect focused on building scalable, modular, and resilient web applications.
 
-I specialize in **micro frontends**, **modern frontend architectures** and **high-performance UIs**, designing solutions that allow large products to evolve de forma independente, com segurança, padronização e ótima experiência para o usuário.
+I specialize in micro frontends, modern frontend architectures, and high-performance UIs, designing solutions that allow large products to evolve independently, with strong security, standardization, and great user experience.
 
-My work spans from **frontend architecture and design systems** to **performance, observability and DX (Developer Experience)**, sempre com foco em escalabilidade, manutenibilidade e colaboração entre múltiplas equipes.
+My work spans from frontend architecture and design systems to performance, observability, and DX (Developer Experience), always with a focus on scalability, maintainability, and collaboration across multiple teams.
 
 📫 Contact: **witorsilvaoliveira@gmail.com**
 
