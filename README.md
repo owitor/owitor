@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Software Engineer with 8+ years of experience building scalable backend systems and distributed architectures.
+Frontend Architect focused on building scalable, modular, and resilient web applications.
 
-I specialize in microservices with Java & Spring Boot, high-performance APIs, and real-time systems. I also develop scalable frontends and work with micro frontends to deliver seamless, end-to-end solutions.
+I specialize in micro frontends, modern frontend architectures, and high-performance UIs, designing solutions that allow large products to evolve independently, with strong security, standardization, and great user experience.
 
-I enjoy working across the stack — from backend architecture and cloud-native environments to clean, responsive user interfaces — always focusing on scalability, performance, and maintainable code.
+My work spans from frontend architecture and design systems to performance, observability, and DX (Developer Experience), always with a focus on scalability, maintainability, and collaboration across multiple teams.
 
 📫 Contact: **witorsilvaoliveira@gmail.com**
 
