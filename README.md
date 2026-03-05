@@ -3,7 +3,7 @@
 <p align="center">Languages & Frameworks</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,angular,html,css,sass" />
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,js,angular,html,css,sass" />
   </a>
 </p>
 
