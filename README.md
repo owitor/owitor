@@ -9,8 +9,6 @@ I’m also passionate about game development with Unity.
 [![Linkedin: witor](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/in/witorsilva/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:witorsilvaoliveira@gmail.com)
 
-____
-
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
