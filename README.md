@@ -2,8 +2,6 @@
 
 Software Engineer working across the full stack, with a strong focus on frontend architecture and development.
 
-I’m also passionate about game development with Unity.
-
 📫 Contact: **witorsilvaoliveira@gmail.com**
 
 [![Linkedin: witor](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/in/witorsilva/)
